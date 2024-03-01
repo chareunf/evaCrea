@@ -1,0 +1,97 @@
+nav {
+    border-bottom: 2px solid blue;
+    
+   
+}
+.eva_logo {
+    padding: 0 10px 0 10px;
+    color: blue;
+    font-size: 2em;
+    font-weight: 600;
+    transition: 1.5s ease;
+    animation-name: logoanimado;
+    animation-duration: 4s;
+    animation-delay: 1s;
+    
+}
+  
+  @keyframes logoanimado {
+    0% {
+      color: none; 
+    }
+    50% {
+      color: rgb(255, 127, 234); 
+      
+      text-shadow:  3px 3px 15px rgb(84, 69, 201);
+      border-radius: 10px;
+      
+    }
+    100% {
+      color: none; 
+    } 
+    }
+
+    .eva-link {
+        color: blue;
+        min-width: 120px;
+        text-align: center;
+    }
+
+    .active {
+        border-radius: 20px;
+        box-shadow: 4px 4px 15px white;
+        
+       
+    }
+
+    /* Div principal contenedor de las rutas*/
+
+    .principal-div {
+        min-height: 100vh;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+
+    /* cardPeluches*/
+
+    .pelucheCard img{
+        padding-top: 1rem;
+        
+        height: 350px;
+        object-fit: cover;
+        overflow: hidden;
+        
+    }
+    
+    .pelucheCard .card-body {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    /*Novedades*/
+
+    .novedadesSection2 {
+        display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    gap: 1rem;
+    }
+
+    /*Footer*/
+
+    footer {
+        border-top: 2px solid blue;
+        background-color: rgb(207,226,255);
+        padding: 1rem 0 1rem 0;
+    }
+
+    footer ul li  {
+        
+        list-style: none;
+        margin: 0 1rem 0 1rem;
+    }
+
+    footer ul li a img {
+        width: 2rem;
+        height: auto;
+        
+    }

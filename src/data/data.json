@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "title":"Bob Esponja",
+        "description":"Some quick example text to build on the card title and make up the bulkof the card's content.",
+        "url":"bobEsponja.jpg",
+        "estado":"principal"
+    },
+    {
+        "id": 2,
+        "title":"Llama de Minecraft",
+        "description":"Some quick example text to build on the card title and make up the bulkof the card's content.",
+        "url":"caballo.jpg",
+        "estado":"principal"
+    },
+    {
+        "id": 3,
+        "title":"Planta caranivora",
+        "description":"Planta carnivora de color violeta y verde, del juego plantas vs zoombies.",
+        "url":"cazaGuisantes.jpg",
+        "estado":"principal"
+    },
+    {
+        "id": 4,
+        "title":"Furia",
+        "description":"Furia, personaje representante de una de las cinco principales emociones de la pelicula Intensamente.",
+        "url":"furia.jpg",
+        "estado":"principal"
+    },{
+        "id": 5,
+        "title":"Clemente",
+        "description":"Clemente, personaje de historieta Argentina creado por Caloi.",
+        "url":"clemente.jpg",
+        "estado":"principal"
+    },
+    {
+        "id": 6,
+        "title":"El Principito",
+        "description":"El Principito, personaje principal de la novela del autor Frances Antony de Saint-Exupery.",
+        "url":"elprincipito.jpg",
+        "estado":"principal"
+    },
+    {
+        "id": 7,
+        "title":"Mafalda",
+        "description":"Mafalda, personaje de tira de prensa Argentina creada por el humorista Quino.",
+        "url":"mafalda.jpg",
+        "estado":"principal"
+    },
+    {
+        "id": 8,
+        "title":"Topo Gigio",
+        "description":"Topo Gigio, personaje de espectaculo infantil de marionetas de la tv italiana.",
+        "url":"topoGigio.jpg",
+        "estado":"principal"
+    },
+    {
+        "id": 9,
+        "title":"Princesa Leia",
+        "description":"Princesa Leia, personaje de la saga de ficcion de la Guerra de las galaxias.",
+        "url":"leia.jpg",
+        "estado":"principal"
+    },
+    {
+        "id": 10,
+        "title":"Lincoln",
+        "description":"Lincoln, personaje de la serie de television The Loud House.",
+        "url":"loudhouse.jpg",
+        "estado":"principal"
+    },
+    {
+        "id": 11,
+        "title":"Conejo",
+        "description":"Conejo de Peluche realizado mayormente para niños de corta edad.",
+        "url":"conejo.jpg",
+        "estado":"principal"
+    },
+    {
+        "id": 12,
+        "title":"Super Hijitus",
+        "description":"Hijitus, personaje de historieta creado por Garcia Ferre.",
+        "url":"superhijitus.jpg",
+        "estado":"principal"
+    },
+    {
+        "id": 13,
+        "title":"Poco yo",
+        "description":"Nueva incorporacion, peluche de Poco yo",
+        "url":"pocoyo.jpg",
+        "estado":"novedad"
+    },
+    {
+        "id": 14,
+        "title":"Zorro",
+        "description":"Zorro de la novela El Principito",
+        "url":"caballo.jpg",
+        "estado":"novedad"
+    },
+    {
+        "id": 15,
+        "title":"Peluche Perro",
+        "description":"Nueva incorporacion, peluche de Perro",
+        "url":"perro.jpg",
+        "estado":"novedad"
+    }
+]
